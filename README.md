@@ -16,7 +16,7 @@
 - OS: Kali Linux, Ubuntu
 
 📂 Highlight Projects:
-
+SQL Injection vulnerability scanner: https://github.com/Hawi-G/vulnhunt
 
 📫 Reach me:  
 - Email: hawigemechis1@gmail.com  
