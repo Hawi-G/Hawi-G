@@ -20,7 +20,7 @@
 
 📫 Reach me:  
 - Email: hawigemechis1@gmail.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/hawi-gemechis-2692ab30a)
+- LinkedIn: (https://www.linkedin.com/in/hawi-gemechis-2692ab30a)
 
 ---
 
