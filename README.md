@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hawi</h1>
-<h3 align="center">Cybersecurity Enthusiast | Python Coder | Linux Explorer</h3>
+<h3 align="center">Cybersecurity Enthusiast | Linux Explorer</h3>
 
 ---
 
@@ -11,9 +11,9 @@
 - Linux command-line tools
 
 🛠️ Tools & Technologies:
-- Languages: Python, Bash
-- Tools: Nmap, Wireshark, Burp Suite, Git
-- OS: Kali Linux, Ubuntu
+- Languages:Bash
+- Tools: Wireshark, Burp Suite
+- OS: Kali Linux
 
 📂 Highlight Projects:
 SQL Injection vulnerability scanner: https://github.com/Hawi-G/vulnhunt
